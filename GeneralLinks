@@ -83,3 +83,5 @@ https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-dat
 
 LSH (Local sensitive hashing) for identifying similar documents (used in search):
 https://eng.uber.com/lsh/
+https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134
+https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4
