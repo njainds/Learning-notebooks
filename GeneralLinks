@@ -81,3 +81,5 @@ https://towardsdatascience.com/getting-started-with-graph-analysis-in-python-wit
 How to Run Parallel Data Analysis in Python using Dask Dataframes:
 https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915
 
+LSH (Local sensitive hashing) for identifying similar documents (used in search):
+https://eng.uber.com/lsh/
